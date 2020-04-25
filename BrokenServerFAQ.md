@@ -1,8 +1,7 @@
   
-##Question:##
-When I start my server I get a bambi timeout error and or spawn doing a fortnite tee-pose in the ground and then the server kicks me!
-
-Answer:
+# Questions: #
+> When I start my server I get a bambi timeout error and or spawn doing a fortnite tee-pose in the ground and then the server kicks me! What do I do?
+## Answer: ##
 Around line 104-ish depending on your install, you will find :
 
 # Set the SQL mode to strict
