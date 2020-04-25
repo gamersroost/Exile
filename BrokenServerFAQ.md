@@ -9,7 +9,7 @@
 
 **sql-mode=STRICT_TRANS_TABLES,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION**
 
-* **You MUST change this to:**
+`* **You MUST change this to:**`
 
 **"# Set the SQL mode to strict"**
 
