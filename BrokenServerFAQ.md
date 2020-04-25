@@ -14,4 +14,4 @@
 **"# Set the SQL mode to strict"**
 
 **sql-mode=""**
-
+ 
