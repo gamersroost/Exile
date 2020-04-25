@@ -12,4 +12,5 @@ sql-mode="STRICT_TRANS_TABLES,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION"
 
 "# Set the SQL mode to strict"
 sql-mode=""
+
 Otherwise - you will get a bambi timeout error and or spawn with you doing a fortnite tee-pose in the ground.
